@@ -1,6 +1,6 @@
-# EE 463 - Antenna Theory and Design for Wireless Communications
+# Antenna Theory and Design for Wireless Communications
 
-Welcome to the repository for the course project of **EE 463 - Antenna Theory and Design for Wireless Communications**.
+Welcome to the repository for the course project of **Antenna Theory and Design for Wireless Communications**.
 
 ## Course Description
 
